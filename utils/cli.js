@@ -2,16 +2,23 @@ const meow = require('meow');
 const meowHelp = require('cli-meow-help');
 
 const flags = {
+	schedule: {
+		type: 'boolean',
+		default: false,
+		alias: 's',
+		desc: `Schedule of upcoming livestreams`
+	},
+	episodes: {
+		type: 'boolean',
+		default: false,
+		alias: 'e',
+		desc: `List all the past episodes`
+	},
 	clear: {
 		type: `boolean`,
 		default: true,
 		alias: `c`,
 		desc: `Clear the console`
-	},
-	noClear: {
-		type: `boolean`,
-		default: false,
-		desc: `Don't clear the console`
 	},
 	debug: {
 		type: `boolean`,
@@ -32,6 +39,7 @@ const commands = {
 
 const helpText = meowHelp({
 	name: `lwj`,
+	defaults: false,
 	flags,
 	commands
 });
