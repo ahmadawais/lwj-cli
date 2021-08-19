@@ -32,6 +32,18 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [0.1.0](https://github.com/ahmadawais/lwj-cli/compare/0.0.1...0.1.0)
+
+![🐛 FIX:](https://img.shields.io/badge/-FIX-gray.svg?colorB=ff6347)
+
+> 🐛 Link [`75c1911`](https://github.com/ahmadawais/lwj-cli/commit/75c19113398d9b6a9d22d11ba231ea910dac6642) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 0.0.1
 
 ![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
@@ -47,6 +59,7 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 > 📖 Documentation init [`2a59e18`](https://github.com/ahmadawais/lwj-cli/commit/2a59e1849d578738cd4e5a4baa3a338c7ed6f3cf) <br>
 > 📖 CoC [`94e086a`](https://github.com/ahmadawais/lwj-cli/commit/94e086a10428a7c2b0abacfa24aab9fbd0efc433) <br>
+> 📖 Changelog [`594482f`](https://github.com/ahmadawais/lwj-cli/commit/594482fb69ed27e2760ceb2bc7a53475807882cc) <br>
 
 <br>
 
