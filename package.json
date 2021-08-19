@@ -1,7 +1,7 @@
 {
 	"name": "lwj",
 	"description": "Learn with Jason",
-	"version": "0.0.1",
+	"version": "0.0.0",
 	"license": "MIT",
 	"bin": {
 		"lwj": "index.js"
