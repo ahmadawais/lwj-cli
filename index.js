@@ -22,7 +22,7 @@ const { clear, debug } = flags;
 (async () => {
 	init({ clear });
 	input.includes(`help`) && cli.showHelp(0);
-
+	!flags.schedule && !flags.episodes && cli.showHelp(0);
 	flags.schedule &&
 		alert({
 			type: 'info',
