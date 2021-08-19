@@ -7,7 +7,8 @@
 
 📟 CLI to fetch LearnWithJason.dev's Episodes and Schedule in your command line.
 
-[![DOWNLOADS](https://img.shields.io/npm/dt/lwj?label=DOWNLOADS%20%20%E2%9D%AF&colorA=fee315&colorB=fee315&style=flat)](https://www.npmjs.com/package/lwj) [![Learn With Jason](https://img.shields.io/badge/-LearnWithJason.dev%20%E2%86%92-gray.svg?colorB=fee315&style=flat)](https://LearnWithJason.dev/?utm_source=GitHubFOSS) [![Learn Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=fee315&style=flat)](https://nodecli.com/?utm_source=GitHubFOSS) [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=fee315&colorB=fee315&style=flat)](https://twitter.com/mrahmadawais/)
+<!-- [![DOWNLOADS](https://img.shields.io/npm/dt/lwj?label=DOWNLOADS%20%20%E2%9D%AF&colorA=fee315&colorB=fee315&style=flat)](https://www.npmjs.com/package/lwj)  -->
+[![Learn With Jason](https://img.shields.io/badge/-LearnWithJason.dev%20%E2%86%92-gray.svg?colorB=fee315&style=flat)](https://LearnWithJason.dev/?utm_source=GitHubFOSS) [![Learn Node.js CLI Automation](https://img.shields.io/badge/-NodeCLI.com%20%E2%86%92-gray.svg?colorB=fee315&style=flat)](https://nodecli.com/?utm_source=GitHubFOSS) [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS%20%E2%86%92-gray.svg?colorA=fee315&colorB=fee315&style=flat)](https://twitter.com/mrahmadawais/)
 
 </h4>
 
